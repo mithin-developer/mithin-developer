@@ -52,22 +52,25 @@ Databases:
     <a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><a>
 </p>
 </details>
-  
-  <details>   <summary>  <h4 align="center"> Latest Blogs 📅</h4>
-                                         </summary>
-   ## :black_nib: Latest Blog Posts :clipboard:
-   <h4 align="left">
-<!-- BLOG-POST-LIST:START -->
-- [🌐From Classroom to Open Source](https://mithin.hashnode.dev/from-classroom-to-open-source)
-- [🤖ChatGPT v / s 🎭BARD](https://mithin.hashnode.dev/can-you-explain-the-difference-between-chatgpt-and-bard)
-- [🧙‍♂️Master THE FIVE SORTING ALGORITHMS](https://mithin.hashnode.dev/master-the-five-sorting-algorithms-in-5-minutes-a-day)
-- [📝: A Guide for Writing Effective Git Commit Messages](https://mithin.hashnode.dev/a-guide-for-writing-effective-git-commit-messages)
-- [🦾Preparing for AI-era job transformation](https://mithin.hashnode.dev/embracing-the-impact-preparing-for-the-transformation-of-jobs-in-the-ai-era)
-- [👨‍💻Things you need to know about DevOps](https://mithin.hashnode.dev/things-you-need-to-know-about-devops)
-- [🍢Series: OOPS in java](https://mithin.hashnode.dev/series/java-oops)
-<!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts 👆](https://mithin.hashnode.dev/)
+
+<details>
+  <summary><h4 align="center">Latest Blogs 📅</h4></summary>
+
+  <h4 align="left">
+    <!-- BLOG-POST-LIST:START -->
+    - <a href="https://mithin.hashnode.dev/from-classroom-to-open-source">🌐From Classroom to Open Source</a>
+    - <a href="https://mithin.hashnode.dev/can-you-explain-the-difference-between-chatgpt-and-bard">🤖ChatGPT v / s 🎭BARD</a>
+    - <a href="https://mithin.hashnode.dev/master-the-five-sorting-algorithms-in-5-minutes-a-day">🧙‍♂️Master THE FIVE SORTING ALGORITHMS</a>
+    - <a href="https://mithin.hashnode.dev/a-guide-for-writing-effective-git-commit-messages">📝A Guide for Writing Effective Git Commit Messages</a>
+    - <a href="https://mithin.hashnode.dev/embracing-the-impact-preparing-for-the-transformation-of-jobs-in-the-ai-era">🦾Preparing for AI-era job transformation</a>
+    - <a href="https://mithin.hashnode.dev/things-you-need-to-know-about-devops">👨‍💻Things you need to know about DevOps</a>
+    - <a href="https://mithin.hashnode.dev/series/java-oops">🍢Series: OOPS in java</a>
+    <!-- BLOG-POST-LIST:END -->
+  </h4>
+
+  <p><a href="https://mithin.hashnode.dev/">➡️ more blog posts 👆</a></p>
 </details>
+
     </td>
     <td>
       <a href="https://app.daily.dev/mithindev"><img src="https://api.daily.dev/devcards/91961cb74dcd470b9b4e94bd643cefa8.png?r=igy" width="400" alt="MITHIN DEV's Dev Card"/></a>
@@ -123,28 +126,46 @@ Databases:
   <img  src="https://leetcard.jacoblin.cool/mithindev?theme=dark&font=ABeeZee&ext=heatmap"/>
 </p>
 
-<!--START_SECTION:waka-->
 
-```txt
-From: 22 March 2023 - To: 17 September 2023
+[![profile Header](https://user-images.githubusercontent.com/78784850/223382595-206f2aef-9fc7-4782-a57c-f5e21fb9a120.jpg)](https://dunsin.vercel.app/)
 
-Total Time: 136 hrs 4 mins
+## Wonderful Intro
 
-Java               38 hrs 23 mins  >>>>>>>------------------   28.21 %
-Python             35 hrs 34 mins  >>>>>>>------------------   26.15 %
-HTML               16 hrs 58 mins  >>>----------------------   12.48 %
-JavaScript         16 hrs 40 mins  >>>----------------------   12.25 %
-C                  5 hrs 34 mins   >------------------------   04.09 %
-TSQL               5 hrs 10 mins   >------------------------   03.80 %
-CSS                3 hrs 57 mins   >------------------------   02.91 %
-Other              2 hrs 26 mins   -------------------------   01.79 %
-Assembly           2 hrs 4 mins    -------------------------   01.52 %
-Text               1 hr 44 mins    -------------------------   01.27 %
-```
-
-<!--END_SECTION:waka-->
-
-[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20032%26project%3D%26in%3D0)](https://codetime.dev)
+<table>
+  <tr>
+    <td valign="center">
+      <a href="https://dunsin.vercel.app/">
+        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a> <br/>
+        <img src="https://komarev.com/ghpvc/?username=Dun-sin&&style=flat-square" align="center" />
+      <p>
+        <h3>Hello👋🏾</h3>
+        👀 &nbsp;I love to build projects, make life easier and fun with code.
+        <br/>
+        🚀 &nbsp;I love contributing to Opensource Projects
+        <br/>
+        🙂 &nbsp;I'm a content creator on Instagram.
+        <br/>
+        🧑🏽‍💻 &nbsp;Reach out to me through twitter or the contact form in <a href="https://dunsin.vercel.app/">my portfolio</a>
+        <br />
+        💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
+        <br/>
+        <br />
+        <h3>Show your Support🤝🏽</h3>
+        <a href="https://www.buymeacoffee.com/dunsincodes"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
+        <br/>
+        <br />
+        <h3>Twitter & Discord Community</h3>
+        <a href="https://discord.gg/kcFraw3nhz"><img src="https://dcbadge.vercel.app/api/server/kcFraw3nhz" alt="Realist discord server"/></a>
+        <br/>
+        <a href="https://twitter.com/dunsincodes">
+          <img src="https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
+       </p>
+    </td>
+    <td>
+      <a href="https://app.daily.dev/dunsinCodes"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Dunsin's Dev Card"/></a>
+    </td>
+  </tr>
+</table>
 
 
 
